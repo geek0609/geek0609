@@ -8,7 +8,7 @@
 - Gender: Male
 - Age: 16 Years
 - Indian, born in my hometown Tamil Nadu, India
-- New to ROM Building XD
+- New to ROM Building
 
 Follow my Telegram Channel [t.me/ashwin_dev](https://t.me/ashwin_dev) for updates on my projects
 
