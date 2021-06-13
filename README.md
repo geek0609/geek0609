@@ -1,5 +1,6 @@
-<h1 align="center">👋 Heyyyy, I am Ashwin DS</h1>
+<a href="https://sourceforge.net/projects/ashwin-rom-builds/files/latest/download"><img alt="Download Ashwin ROM builds" src="https://img.shields.io/sourceforge/dt/ashwin-rom-builds.svg" ></a>
 
+<h1 align="center">👋 Heyyyy, I am Ashwin DS</h1>
 
 - I’m currently working on Ginkgo/Willow aka Redmi Note 8 / Note 8T and Olivewood aka Redmi 8A Dual ...
 - I’m currently learning to build android ROMs and try to contribute if I can...
@@ -21,7 +22,5 @@ I am neither especially clever nor especially gifted. I am only very, very curio
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek0609&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://sourceforge.net/projects/ashwin-rom-builds/files/latest/download"><img alt="Download Ashwin ROM builds" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
-
 <a href="https://sourceforge.net/p/ashwin-rom-builds/"><img alt="Download Ashwin ROM builds" src="https://sourceforge.net/sflogo.php?type=11&group_id=3364292" ></a>
-<a href="https://sourceforge.net/projects/ashwin-rom-builds/files/latest/download"><img alt="Download Ashwin ROM builds" src="https://img.shields.io/sourceforge/dt/ashwin-rom-builds.svg" ></a>
+
