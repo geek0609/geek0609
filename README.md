@@ -2,14 +2,9 @@
 
 <h1 align="center">👋 Heyyyy, I am Ashwin DS</h1>
 
-- I’m currently working on Ginkgo/Willow aka Redmi Note 8 / Note 8T   
-- I’m currently learning to build android ROMs and try to contribute if I can...
-- How to reach me: Telegram @dsashwin  ...
+- I’m currently working on Ginkgo/Willow aka Redmi Note 8 / Note 8T and Redmi Note 10 aka Mojito/Sunny
+- How to reach me: Telegram @dsashwin
 - Living in Oman
-- Gender: Male
-- Age: 16 Years
-- Indian, born in my hometown Tamil Nadu, India
-- New to ROM Building
 
 Follow my Telegram Channel [t.me/ashwin_dev](https://t.me/ashwin_dev) for updates on my projects
 
