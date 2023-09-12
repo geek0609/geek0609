@@ -3,7 +3,7 @@
 "Open source is not just about technology, it's a way of life. It's about community, collaboration, and the power to shape technology for the better." -Jono Bacon
 
 ## About me
-- Age: 17 :birthday:
+- Age: 18 :birthday:
 - Date of Birth: 6/9/2005 :birthday:
 - Nationality: Indian :india:
 - Location: Muscat, Oman :world_map:
