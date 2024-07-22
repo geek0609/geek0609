@@ -16,7 +16,7 @@
 ## Education
 - **Finished Class 12th** :school: in [Indian School Al Wadi Al Kabir, Muscat, Oman](https://iswkoman.com/) with subjects English, Physics, Chemistry, Mathematics and Economics
 - **2nd year in B. Tech** in Electronics and Communications Engineering with specialization in VLSI design and manufacturing from [National Institute of Technology Warangal](https://nitw.ac.in/)
-- ** Diploma Level in Bachelor of Science** (BS) Degree in Data Science and Applications from [Indian Institute of Technology Madras](https://study.iitm.ac.in/ds/)
+- **Diploma Level in Bachelor of Science** (BS) Degree in Data Science and Applications from [Indian Institute of Technology Madras](https://study.iitm.ac.in/ds/)
 
 ## Projects
 - ### [PixelOS:](https://pixelos.net/)
