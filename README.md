@@ -3,8 +3,7 @@
 "Open source is not just about technology, it's a way of life. It's about community, collaboration, and the power to shape technology for the better." -Jono Bacon
 
 ## About me
-- Age: 18 :birthday:
-- Date of Birth: 6/9/2005 :birthday:
+- Age: 19 :birthday:
 - Nationality: Indian :india:
 - Location: Primarily based in Chennai, Tamil Nadu and Puducherry; Studying in Warangal, TS; Stayed in Muscat, Oman for entire childhood :world_map:
 - Fluent languages: Tamil/English
@@ -15,7 +14,7 @@
 
 ## Education
 - **Finished Class 12th** :school: in [Indian School Al Wadi Al Kabir, Muscat, Oman](https://iswkoman.com/) with subjects English, Physics, Chemistry, Mathematics and Economics
-- **2nd year in B. Tech** in Electronics and Communications Engineering with specialization in VLSI design and manufacturing from [National Institute of Technology Warangal](https://nitw.ac.in/)
+- **2nd Year B. Tech** in Electronics and Communications Engineering with specialization in VLSI design and manufacturing from [National Institute of Technology Warangal](https://nitw.ac.in/)
 - **Diploma Level in Bachelor of Science** (BS) Degree in Data Science and Applications from [Indian Institute of Technology Madras](https://study.iitm.ac.in/ds/)
 
 ## Projects
